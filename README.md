@@ -23,26 +23,26 @@ This repository serves as a hands-on practice ground for exploring various Azure
 ### Detect face
 
 - Input:
-    - ![Detect face input]("./inputs/eu_lol.jpg" "Detect face input")
+    - ![Detect face input](./inputs/eu_lol.jpeg "Detect face input")
 
 - Output:
-    - ![Detect face output]("./outputs/Vision Studio - Google Chrome 2_14_2024 4_19_11 PM.png" "Detect face output")
+    - ![Detect face output](./outputs/detect_face_output.png "Detect face output")
 
 ### Read text
 
 - Input:
-    - ![Read text input]("./inputs/questions_for_new_work.png" "Read text input")
+    - ![Read text input](./inputs/questions_for_new_work.png "Read text input")
 
 - Output:
-    - ![Read text output]("./outputs/Vision Studio - Google Chrome 2_14_2024 4_23_52 PM.png" "Read text output")
+    - ![Read text output](./outputs/read_text_output.png "Read text output")
 
 ### Image analysis
 
 - Input:
-    - ![Image analysis input]("./inputs/images.jpg" "Image analysis input")
+    - ![Image analysis input](./inputs/images.jpg "Image analysis input")
 
 - Output:
-    - ![Image analysis output]("./outputs/Vision Studio - Google Chrome 2_14_2024 4_29_41 PM.png" "Image analysis output")
+    - ![Image analysis output](./outputs/image_analysis_output.png "Image analysis output")
 
 
 ## Insights
